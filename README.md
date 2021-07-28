@@ -1,1 +1,1 @@
-# MVC-Project-Next-Level-Technologies
+# SoftUni-Spring-Data-Workshop
